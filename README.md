@@ -1,4 +1,4 @@
-## This is my final submission for Swarm Robotics Software Team Selections
+## Final submission for Swarm Robotics Software
 
 <img src="https://user-images.githubusercontent.com/69421538/134138631-8ae08c02-24d6-43b3-a20d-a3adb746f231.gif" alt="1" width="400"/> <img src="https://user-images.githubusercontent.com/69421538/134139971-26c65d69-d6cc-4393-b508-6af0a093e73b.gif" alt="drawing" width="400"/>
 
